@@ -1,2 +1,2 @@
-# Oteng.git.io
+# Oteng
 Happy birthday
